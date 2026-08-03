@@ -1,0 +1,8 @@
+{
+  "name": "vehicle-tuning",
+  "version": "1.0.0",
+  "description": "Araç tuning ve performans sistemi",
+  "author": "taha",
+  "repository": "https://github.com/reasinx/vehicle-tuning.git",
+  "dependencies": {}
+}
