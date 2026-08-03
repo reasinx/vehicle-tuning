@@ -1,3 +1,5 @@
 <meta>
-  <info name="vehicle-tuning" author="taha" version="1.0.0"/>
+  <info name="vehicle-tuning" author="taha" version="1.0.1"/>
+  <script src="server.lua" type="server"/>
+  <script src="client.lua" type="client"/>
 </meta>
